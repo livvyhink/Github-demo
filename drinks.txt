@@ -4,3 +4,6 @@ wine
 beer
 coke
 lemonade
+Tequila
+Vodka
+Jagermeister
