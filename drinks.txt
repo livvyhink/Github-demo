@@ -1,1 +1,6 @@
 drinks list
+
+wine
+beer
+coke
+lemonade
